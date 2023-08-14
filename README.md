@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeepnpn&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeepnpn&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeepnpn)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeepnpn)
 
 <!--
 **eeepnpn/eeepnpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
